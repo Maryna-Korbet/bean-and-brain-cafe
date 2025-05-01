@@ -107,7 +107,7 @@
   align-items: center;
   flex-shrink: 0;
   border-radius: 50%;
-  background-image: url('../../images/icons/check.svg');
+  background-image: url('/images/icons/check.svg');
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: 12px;
@@ -157,8 +157,8 @@
     border-radius: 30px;
     padding: 64px 32px;
     background-image: image-set(
-      url('../../images/application_proposal/cup@1x.png') 1x,
-      url('../../images/application_proposal/cup@2x.png') 2x
+      url('/images/application_proposal/cup@1x.png') 1x,
+      url('/images/application_proposal/cup@2x.png') 2x
     );
     background-position: 583px 173px;
     background-size: 264px 283px;
@@ -265,8 +265,8 @@
 
 .snacks-card {
   background-image: image-set(
-    url('../../images/application_proposal/snack.png') 1x,
-    url('../../images/application_proposal/snack@2x.png') 2x
+    url('/images/application_proposal/snack.png') 1x,
+    url('/images/application_proposal/snack@2x.png') 2x
   );
   background-position: 503px 173px;
   background-size: 264px 263px;

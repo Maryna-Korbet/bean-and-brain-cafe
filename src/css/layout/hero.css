@@ -22,7 +22,7 @@
       rgba(0, 0, 0, 0.7) 0%,
       rgba(0, 0, 0, 0) 100%
     ),
-    url('../../images/hero/hero-mobile@1x.jpg');
+    url('/images/hero/hero-mobile@1x.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -43,7 +43,7 @@
         rgba(0, 0, 0, 0.7) 0%,
         rgba(0, 0, 0, 0) 100%
       ),
-      url('../../images/hero/hero-mobile@2x.jpg');
+      url('/images/hero/hero-mobile@2x.jpg');
   }
 }
 
@@ -142,7 +142,7 @@
         rgba(0, 0, 0, 0.7) 0%,
         rgba(0, 0, 0, 0) 100%
       ),
-      url('../../images/hero/hero-tablet@2x.jpg');
+      url('/images/hero/hero-tablet@2x.jpg');
     border-radius: 30px;
 
     justify-content: center;
@@ -189,7 +189,7 @@
         rgba(0, 0, 0, 0.7) 0%,
         rgba(0, 0, 0, 0) 100%
       ),
-      url('../../images/hero/hero-tablet@2x.jpg');
+      url('/images/hero/hero-tablet@2x.jpg');
   }
 }
 
@@ -214,7 +214,7 @@
         rgba(0, 0, 0, 0.7) 0%,
         rgba(0, 0, 0, 0) 100%
       ),
-      url('../../images/hero/hero-decktop@1x.jpg');
+      url('/images/hero/hero-decktop@1x.jpg');
   }
 
   .hero-header {
@@ -231,7 +231,7 @@
         rgba(0, 0, 0, 0.7) 0%,
         rgba(0, 0, 0, 0) 100%
       ),
-      url('../../images/hero/hero-decktop@2x.jpg');
+      url('/images/hero/hero-decktop@2x.jpg');
   }
 }
 
