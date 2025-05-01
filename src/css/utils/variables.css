@@ -1,0 +1,19 @@
+:root {
+  --main-font: 'Manrope', sans-serif;
+
+  /* main colors */
+  --black: #482C13;
+  --green: #7D512D;
+  --light-green: #E5CBA8;
+  --gray: #f3f5f6;
+  --white: #ffffff;
+  --text-color-grey: rgba(18, 20, 23, 0.5);
+  --invalid: #ee323d;
+
+  /* additional colors */
+  --header-second-style-color: #E5CBA8;
+  --hover-focus-color: #7D512D;
+  --header-accent-style-color: #482C13;
+
+  --transition-duration-time-function: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
