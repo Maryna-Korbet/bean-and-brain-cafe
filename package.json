@@ -1,11 +1,11 @@
 {
-  "name": "bean-and-brain",
+  "name": "bean-and-brain-cafe",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project_cody_builders/",
+    "build": "vite build --base=/bean-and-brain-cafe/",
     "preview": "vite preview"
   },
   "devDependencies": {
